@@ -47,22 +47,7 @@ npm install web3
 ```
 
 ### Run the application
-1. Clean the frontend 
-```bash
-cd app
-# Remove the node_modules  
-# remove packages
-rm -rf node_modules
-# clean cache
-npm cache clean
-rm package-lock.json
-# initialize npm (you can accept defaults)
-npm init
-# install all modules listed as dependencies in package.json
-npm install
-```
-
-2. Start Truffle by running
+1. Start Truffle by running
 ```bash
 # For starting the development console
 truffle develop
