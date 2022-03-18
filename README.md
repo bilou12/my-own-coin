@@ -4,8 +4,8 @@
 Simple implementation of an ERC-20 token.
 
 ### Specifications
-* ERC-721 Token Name: Ben zaza
-* ERC-721 Token Symbol: BEN
+* ERC-20 Token Name: Ben zaza
+* ERC-20 Token Symbol: BEN
 * Truffle version: Truffle v5.4.32 (core: 5.4.32)
 * OpenZeppelin version: 2.3.0
 * Token Address on the Rinkeby Network: 0x130061e744fcaa4625f2385528CC72bD41B61d53
